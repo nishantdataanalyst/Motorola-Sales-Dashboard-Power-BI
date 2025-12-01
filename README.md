@@ -17,4 +17,4 @@ The dashboard helps businesses understand regional demand, brand popularity, sea
 ✔ Apple & Samsung drive the largest sales revenue
 ✔ UPI and Credit Card are the most used payment modes
 ✔ Metro cities like Mumbai, Delhi, Hyderabad, Chennai dominate mobile sales
-✔ 20.8% customers give a 1-star rating, indicating improvement opportunity
+✔ 20.8% customers give a 1-star rating, indicating improvement opportunity.
